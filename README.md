@@ -7,4 +7,5 @@ AI
 
 ### Quiz 1 - IMDB Dataset
 ### Quiz 2 - Spotify Dataset
-### Quiz 4 - Titanic Tree Copy
+### Quiz 3 - Titanic Tree
+### Quiz 4 - Quiz 4
